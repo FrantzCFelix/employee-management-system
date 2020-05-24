@@ -1,4 +1,4 @@
-# employee-tracker
+# employee-managment-system
 
 An Employee Managment System(EMS) command line application. The application will prompt to take various action with regards to the employees of the company.
 
